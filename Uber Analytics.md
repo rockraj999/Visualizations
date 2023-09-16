@@ -23,12 +23,17 @@
 4. Enhanced the understanding of Uber's 2016 operations in NYC through interactive dashboard.
 
 
+## Impact:
+1. Facilitated quicker identification of trends, patterns, and peak demand hours for optimized resource allocation.
+2. Supported data-driven strategies for improving revenue and user experience.
+
+ 
 ## Conclusion:
-The Uber Data Visualization Dashboard project highlights my ability to transform complex data into meaningful insights using Tableau.
-It showcases my proficiency in data analysis, visualization, and creating user-friendly dashboards.
-This project exemplifies my commitment to enhancing data-driven decision-making processes.
+1. Gained proficiency in data preprocessing and visualization techniques.
+2. Strengthened skills in translating data into actionable insights.
+3. 
 
-
+To interact with Dashboard please go to following link: https://public.tableau.com/views/Uber_dashboard_16911327037770/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ![Uber_analysis_dashboard](https://github.com/rockraj999/Visualizations/assets/121096737/ac5b95e8-cbfe-48a0-9b6c-ef44a64f1b66)
 
